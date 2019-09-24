@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4b4aa46b-3557-4b7d-a834-6e4c61033e7d" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/css/ie8.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/css/ie9.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/app.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/ie/PIE.htc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/ie/html5shiv.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/ie/respond.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/jquery.dropotron.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/particles.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/particles.min (copy).js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/particles.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/skel.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/sass/ie8.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/sass/ie9.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/back1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/back4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/back5.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/back6.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/back7.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/back8.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/fulls/intro.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/fulls/two.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/pic1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/pic2.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/thumbs/two.png" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/LICENSE.txt" afterPath="$PROJECT_DIR$/LICENSE.txt" />
+      <change beforePath="$PROJECT_DIR$/README.txt" afterPath="$PROJECT_DIR$/README.txt" />
+      <change beforePath="$PROJECT_DIR$/assets/css/font-awesome.min.css" afterPath="$PROJECT_DIR$/assets/css/font-awesome.min.css" />
+      <change beforePath="$PROJECT_DIR$/assets/css/images/arrow.svg" afterPath="$PROJECT_DIR$/assets/css/images/arrow.svg" />
+      <change beforePath="$PROJECT_DIR$/assets/css/images/dark-arrow.svg" afterPath="$PROJECT_DIR$/assets/css/images/dark-arrow.svg" />
+      <change beforePath="$PROJECT_DIR$/assets/css/images/overlay.png" afterPath="$PROJECT_DIR$/assets/css/images/overlay.png" />
+      <change beforePath="$PROJECT_DIR$/assets/css/images/poptrox-closer.svg" afterPath="$PROJECT_DIR$/assets/css/images/poptrox-closer.svg" />
+      <change beforePath="$PROJECT_DIR$/assets/css/images/poptrox-nav.svg" afterPath="$PROJECT_DIR$/assets/css/images/poptrox-nav.svg" />
+      <change beforePath="$PROJECT_DIR$/assets/css/main.css" afterPath="$PROJECT_DIR$/assets/css/main.css" />
+      <change beforePath="$PROJECT_DIR$/assets/css/noscript.css" afterPath="$PROJECT_DIR$/assets/css/noscript.css" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/FontAwesome.otf" afterPath="$PROJECT_DIR$/assets/fonts/FontAwesome.otf" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.eot" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.svg" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.ttf" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.woff" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.woff2" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.woff2" />
+      <change beforePath="$PROJECT_DIR$/assets/js/breakpoints.min.js" afterPath="$PROJECT_DIR$/assets/js/breakpoints.min.js" />
+      <change beforePath="$PROJECT_DIR$/assets/js/browser.min.js" afterPath="$PROJECT_DIR$/assets/js/browser.min.js" />
+      <change beforePath="$PROJECT_DIR$/assets/js/jquery.min.js" afterPath="$PROJECT_DIR$/assets/js/jquery.min.js" />
+      <change beforePath="$PROJECT_DIR$/assets/js/jquery.poptrox.min.js" afterPath="$PROJECT_DIR$/assets/js/jquery.poptrox.min.js" />
+      <change beforePath="$PROJECT_DIR$/assets/js/jquery.scrollex.min.js" afterPath="$PROJECT_DIR$/assets/js/jquery.scrollex.min.js" />
+      <change beforePath="$PROJECT_DIR$/assets/js/jquery.scrolly.min.js" afterPath="$PROJECT_DIR$/assets/js/jquery.scrolly.min.js" />
+      <change beforePath="$PROJECT_DIR$/assets/js/main.js" afterPath="$PROJECT_DIR$/assets/js/main.js" />
+      <change beforePath="$PROJECT_DIR$/assets/js/util.js" afterPath="$PROJECT_DIR$/assets/js/util.js" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/base/_page.scss" afterPath="$PROJECT_DIR$/assets/sass/base/_page.scss" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/base/_reset.scss" afterPath="$PROJECT_DIR$/assets/sass/base/_reset.scss" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/base/_typography.scss" afterPath="$PROJECT_DIR$/assets/sass/base/_typography.scss" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/components/_actions.scss" afterPath="$PROJECT_DIR$/assets/sass/components/_actions.scss" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/components/_box.scss" afterPath="$PROJECT_DIR$/assets/sass/components/_box.scss" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/components/_button.scss" afterPath="$PROJECT_DIR$/assets/sass/components/_button.scss" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/components/_form.scss" afterPath="$PROJECT_DIR$/assets/sass/components/_form.scss" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/components/_gallery.scss" afterPath="$PROJECT_DIR$/assets/sass/components/_gallery.scss" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/components/_icon.scss" afterPath="$PROJECT_DIR$/assets/sass/components/_icon.scss" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/components/_icons.scss" afterPath="$PROJECT_DIR$/assets/sass/components/_icons.scss" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/components/_image.scss" afterPath="$PROJECT_DIR$/assets/sass/components/_image.scss" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/components/_list.scss" afterPath="$PROJECT_DIR$/assets/sass/components/_list.scss" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/components/_poptrox-popup.scss" afterPath="$PROJECT_DIR$/assets/sass/components/_poptrox-popup.scss" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/components/_section.scss" afterPath="$PROJECT_DIR$/assets/sass/components/_section.scss" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/components/_table.scss" afterPath="$PROJECT_DIR$/assets/sass/components/_table.scss" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/layout/_footer.scss" afterPath="$PROJECT_DIR$/assets/sass/layout/_footer.scss" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/layout/_header.scss" afterPath="$PROJECT_DIR$/assets/sass/layout/_header.scss" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/layout/_main.scss" afterPath="$PROJECT_DIR$/assets/sass/layout/_main.scss" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/libs/_breakpoints.scss" afterPath="$PROJECT_DIR$/assets/sass/libs/_breakpoints.scss" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/libs/_functions.scss" afterPath="$PROJECT_DIR$/assets/sass/libs/_functions.scss" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/libs/_mixins.scss" afterPath="$PROJECT_DIR$/assets/sass/libs/_mixins.scss" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/libs/_vars.scss" afterPath="$PROJECT_DIR$/assets/sass/libs/_vars.scss" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/libs/_vendor.scss" afterPath="$PROJECT_DIR$/assets/sass/libs/_vendor.scss" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/main.scss" afterPath="$PROJECT_DIR$/assets/sass/main.scss" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/noscript.scss" afterPath="$PROJECT_DIR$/assets/sass/noscript.scss" />
+      <change beforePath="$PROJECT_DIR$/images/back3.jpg" afterPath="$PROJECT_DIR$/images/back3.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/four.jpg" afterPath="$PROJECT_DIR$/images/four.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/fulls/01.jpg" afterPath="$PROJECT_DIR$/images/fulls/01.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/fulls/02.jpg" afterPath="$PROJECT_DIR$/images/fulls/02.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/fulls/03.jpg" afterPath="$PROJECT_DIR$/images/fulls/03.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/fulls/04.jpg" afterPath="$PROJECT_DIR$/images/fulls/04.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/fulls/05.jpg" afterPath="$PROJECT_DIR$/images/fulls/05.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/fulls/06.jpg" afterPath="$PROJECT_DIR$/images/fulls/06.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/fulls/1.jpg" afterPath="$PROJECT_DIR$/images/fulls/1.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/fulls/3.jpg" afterPath="$PROJECT_DIR$/images/fulls/3.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/fulls/4.jpg" afterPath="$PROJECT_DIR$/images/fulls/4.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/fulls/5.jpg" afterPath="$PROJECT_DIR$/images/fulls/5.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/fulls/6.jpg" afterPath="$PROJECT_DIR$/images/fulls/6.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/intro.jpg" afterPath="$PROJECT_DIR$/images/intro.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/nisb_logo.jpg" afterPath="$PROJECT_DIR$/images/nisb_logo.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/thumbs/01.jpg" afterPath="$PROJECT_DIR$/images/thumbs/01.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/thumbs/02.jpg" afterPath="$PROJECT_DIR$/images/thumbs/02.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/thumbs/03.jpg" afterPath="$PROJECT_DIR$/images/thumbs/03.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/thumbs/04.jpg" afterPath="$PROJECT_DIR$/images/thumbs/04.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/thumbs/05.jpg" afterPath="$PROJECT_DIR$/images/thumbs/05.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/thumbs/06.jpg" afterPath="$PROJECT_DIR$/images/thumbs/06.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/thumbs/1.jpg" afterPath="$PROJECT_DIR$/images/thumbs/1.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/thumbs/3.jpg" afterPath="$PROJECT_DIR$/images/thumbs/3.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/thumbs/4.jpg" afterPath="$PROJECT_DIR$/images/thumbs/4.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/thumbs/5.jpg" afterPath="$PROJECT_DIR$/images/thumbs/5.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/thumbs/6.jpg" afterPath="$PROJECT_DIR$/images/thumbs/6.jpg" />
+      <change beforePath="$PROJECT_DIR$/images/thumbs/intro.jpg" afterPath="$PROJECT_DIR$/images/thumbs/intro.jpg" />
+      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change beforePath="$PROJECT_DIR$/new.html" afterPath="" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index1.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index1.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="174">
+              <caret line="700" column="12" lean-forward="false" selection-start-line="700" selection-start-column="12" selection-end-line="707" selection-end-column="53" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="525" column="12" lean-forward="false" selection-start-line="525" selection-start-column="12" selection-end-line="525" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>team of three</find>
+      <find>register</find>
+      <find>XQuizme</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="65" />
+    <option name="y" value="-4" />
+    <option name="width" value="1297" />
+    <option name="height" value="559" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Adroit18" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Adroit18" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/aisywc/AISYWC" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4b4aa46b-3557-4b7d-a834-6e4c61033e7d" name="Default" comment="" />
+      <created>1537809137125</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1537809137125</updated>
+      <workItem from="1537809157266" duration="2506000" />
+      <workItem from="1537884099713" duration="1012000" />
+      <workItem from="1537934079557" duration="47000" />
+      <workItem from="1537963657165" duration="3929000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="7494000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="64" y="-11" width="1303" height="780" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2613546" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32970452" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="700" column="12" lean-forward="false" selection-start-line="700" selection-start-column="12" selection-end-line="707" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="525" column="12" lean-forward="false" selection-start-line="525" selection-start-column="12" selection-end-line="525" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
